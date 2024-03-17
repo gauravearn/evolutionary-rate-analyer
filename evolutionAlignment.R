@@ -1,3 +1,7 @@
+#!/usr/bin/R
+# Universitat Potsdam
+# Author Gaurav Sablok
+# date: 2024-3-17
 evolutionAlignment <- function(fasta_file, path){
     library(ape)
     library(Biostrings)
